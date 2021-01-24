@@ -138,7 +138,6 @@
   min-height: 607px;
   margin-top: 0;
   margin-bottom: 12px;
-  height: auto;
 }
 
 @media (max-width: 1199px) {
@@ -148,6 +147,7 @@
 
   .u-section-2 .u-custom-html-1 {
     margin-bottom: 60px;
+    height: auto;
   }
 }body,
 html {
