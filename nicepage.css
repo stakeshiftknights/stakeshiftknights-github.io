@@ -31979,6 +31979,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
+  font-size: 1.5rem;
   margin: -32px 375px 16px 425px;
 }
 @media (max-width: 1199px) {
@@ -32018,7 +32019,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-right: 153px;
+    margin-top: 20px;
+    margin-right: auto;
     margin-left: 0;
   }
 }
