@@ -32,7 +32,7 @@
     <link rel="canonical" href="index.html">
     <meta property="og:url" content="index.html">
   </head>
-  <body class="u-body"><header class="u-black u-clearfix u-header u-sticky u-header" id="sec-f30f"><div class="u-clearfix u-sheet u-sheet-1">
+  <body class="u-body"><header class="u-clearfix u-custom-color-5 u-header u-sticky u-header" id="sec-f30f"><div class="u-clearfix u-sheet u-sheet-1">
         <nav class="u-align-left u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-menu-1">
           <div class="menu-collapse">
             <a class="u-button-style u-nav-link" href="#" style="padding: 4px 0px; font-size: calc(1em + 8px);">
@@ -41,15 +41,17 @@
 </g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
             </a>
           </div>
-          <div class="u-nav-container">
+          <div class="u-custom-menu u-nav-container">
             <ul class="u-nav u-spacing-25 u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Stake-Shift-Knights.html" style="padding: 8px 0px;">Stake Shift Knights</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Stake-Shift-Knights.html#sec-2efb" data-page-id="62569327" style="padding: 8px 0px;">Operators</a>
 </li></ul>
           </div>
-          <div class="u-nav-container-collapse">
+          <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Stake-Shift-Knights.html">Stake Shift Knights</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Stake-Shift-Knights.html" style="padding: 8px 0px;">Stake Shift Knights</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Stake-Shift-Knights.html#sec-2efb" data-page-id="62569327" style="padding: 8px 0px;">Operators</a>
 </li></ul>
               </div>
             </div>
