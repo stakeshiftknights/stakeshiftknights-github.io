@@ -169,28 +169,28 @@ html {
 #cefmsRates{
   border: 0;
   width: 1000px;
-  height: 3000px;
+  height: 600px;
 }
 #outerIframe{
     position: relative;
-    margin: 0 auto;
-    padding-top: 0px;
-    background-color: white;
+    margin: 0;
+    padding-top: 0;
+    background-color: black;
     opacity: 1;
     width: 1000px;
 }
 #headerCover{
   position: absolute;
   width: 1000px;
-  height: 0px;
-  background-color: white;
+  height: 1px;
+  background-color: black;
    opacity: 1;
 }
 #footerCover{
   position: absolute;
   width: 1000px;
   height: 38px;
-  background-color: white;
+  background-color: black;
    opacity: 1;
   bottom: 0px;
 }
